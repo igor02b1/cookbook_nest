@@ -29,7 +29,7 @@
 22. <a href="22.md" >Projeto Blog Pessoal - Documentação com SpringDoc</a>
 23. <a href="23.md" >Projeto Blog Pessoal - Deploy no Heroku via Github</a>
 
-<h2><img src="https://i.imgur.com/XFnTrpX.png" title="source: imgur.com" width="35px"/>Anexos</h2>
+<h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Anexos</h2>
 
 01. <a href="java_tipos.md" >Tipos de dados - Java</a>
 02. <a href="guia_jpa.md" >Guia do JPA</a>
