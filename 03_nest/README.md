@@ -7,7 +7,7 @@
 
 1. <a href="01.md" >Introdução ao NestJS</a>
 2. <a href="02.md" >Primeiros passos com NestJS </a>
-3. <a href="03.md" >Introdução ao JPA</a>
+3. <a href="03.md" >Introdução ao TypeORM</a>
 4. <a href="04.md" >Projeto Blog Pessoal - Projeto NestJS</a>
 5. <a href="05.md" >Projeto Blog Pessoal - Módulo Postagem - Entity</a>
 6. <a href="07.md" >Projeto Blog Pessoal - Módulo Postagem Controller e Service - Método Listar tudo</a>
