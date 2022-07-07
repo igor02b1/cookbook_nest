@@ -9,8 +9,9 @@
 2. <a href="02.md" >Primeiros passos com NestJS </a>
 3. <a href="03.md" >Introdução ao TypeORM</a>
 4. <a href="04.md" >Projeto Blog Pessoal - Projeto NestJS</a>
-5. <a href="05.md" >Projeto Blog Pessoal - Módulo Postagem - Entity</a>
-6. <a href="07.md" >Projeto Blog Pessoal - Módulo Postagem Controller e Service - Método Listar tudo</a>
+5. <a href="06.md" >Projeto Blog Pessoal - Configurando Banco de dados</a>
+6. <a href="05.md" >Projeto Blog Pessoal - Módulo Postagem - Entity</a>
+7. <a href="07.md" >Projeto Blog Pessoal - Módulo Postagem Controller e Service - Método Listar tudo</a>
 8. <a href="08.md" >Projeto Blog Pessoal - Módulo Postagem Controller e Service - Método Buscar por id</a>
 9. <a href="09.md" >Projeto Blog Pessoal - Módulo Postagem Controller e Service - Método Buscar por título</a>
 10. <a href="10.md" >Projeto Blog Pessoal - Módulo Postagem Controller e Service - Métodos Cadastrar e Atualizar</a>
