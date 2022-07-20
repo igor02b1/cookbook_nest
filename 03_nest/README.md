@@ -22,19 +22,18 @@
 15. <a href="15.md" >Projeto Blog Pessoal - NestJS Security - Ecossistema do Usuário</a>
 16. <a href="16.md" >Projeto Blog Pessoal - NestJS Security - Ecossistema da Segurança</a>
 17. <a href="17.md" >Projeto Blog Pessoal - NestJS Security - Módulo de Serviço</a>
-18. <a href="18.md" >Introdução a Testes de Software com Jest</a>
-19. <a href="19.md" >Projeto Blog Pessoal - Teste Unitário - Configurando o ambiente de testes</a>
-20. <a href="21.md" >Projeto Blog Pessoal - Teste e2e com Super Test</a>
+18. <a href="18.md" >Introdução a Teste de Software com Jest</a>
+19. <a href="19.md" >Projeto Blog Pessoal - Teste de Software - Configurando o ambiente de testes</a>
+20. <a href="21.md" >Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
 22. <a href="22.md" >Projeto Blog Pessoal - Documentação com Swagger</a>
 23. <a href="23.md" >Projeto Blog Pessoal - Deploy no Heroku via Github</a>
 
 <h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Anexos</h2>
 
 01. <a href="java_tipos.md" >Tipos de dados - Java</a>
-02. <a href="guia_jpa.md" >Guia do JPA</a>
-03. <a href="uml.md" >Diagrama de Módulos</a>
-04. <a href="deploy_client.md" >Projeto Blog Pessoal - Deploy no Heroku via Heroku Client</a>
-05. <a href="deploy_organizacao.md" >Projeto Integrador - Deploy no Heroku - Git Organization</a>
+02. <a href="uml.md" >Diagrama de Classes</a>
+03. <a href="deploy_client.md" >Projeto Blog Pessoal - Deploy no Heroku via Heroku Client</a>
+04. <a href="deploy_organizacao.md" >Projeto Integrador - Deploy no Heroku - Git Organization</a>
 
 <br /><br />
 	
