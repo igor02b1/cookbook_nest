@@ -30,7 +30,7 @@
 
 <h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Anexos</h2>
 
-01. <a href="java_tipos.md" >Tipos de dados - Java</a>
+01. <a href="vscode_config.md" >Configurações do VSCode</a>
 02. <a href="uml.md" >Diagrama de Classes</a>
 03. <a href="deploy_client.md" >Projeto Blog Pessoal - Deploy no Heroku via Heroku Client</a>
 04. <a href="deploy_organizacao.md" >Projeto Integrador - Deploy no Heroku - Git Organization</a>
