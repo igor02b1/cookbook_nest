@@ -19,12 +19,13 @@
 12. <a href="12.md" >Projeto Blog Pessoal - Relacionamento entre Módulos - Módulo Tema - Parte 01</a>
 13. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Módulos - Módulo Tema - Parte 02</a>
 14. <a href="14.md" >Introdução a Segurança da aplicação</a>
-15. <a href="15.md" >Projeto Blog Pessoal - NestJS Security - Ecossistema do Usuário</a>
-16. <a href="16.md" >Projeto Blog Pessoal - NestJS Security - Ecossistema da Segurança</a>
-17. <a href="17.md" >Projeto Blog Pessoal - NestJS Security - Módulo de Serviço</a>
-18. <a href="18.md" >Introdução a Teste de Software com Jest</a>
-19. <a href="19.md" >Projeto Blog Pessoal - Teste de Software - Configurando o ambiente de testes</a>
-20. <a href="21.md" >Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
+15. <a href="16.md" >Projeto Blog Pessoal - NestJS Security - Módulo Auth - Parte 01</a>
+16. <a href="15.md" >Projeto Blog Pessoal - NestJS Security - Módulo Usuário - Parte 01</a>
+17. <a href="20.md" >Projeto Blog Pessoal - NestJS Security - Módulo Usuário - Parte 02</a>
+18. <a href="17.md" >Projeto Blog Pessoal - NestJS Security - Módulo Auth - Parte 02</a>
+19. <a href="18.md" >Introdução a Teste de Software com Jest</a>
+20. <a href="19.md" >Projeto Blog Pessoal - Teste de Software - Configurando o ambiente de testes</a>
+21. <a href="21.md" >Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
 22. <a href="22.md" >Projeto Blog Pessoal - Documentação com Swagger</a>
 23. <a href="23.md" >Projeto Blog Pessoal - Deploy no Heroku via Github</a>
 
