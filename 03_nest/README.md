@@ -23,11 +23,12 @@
 16. <a href="15.md" >Projeto Blog Pessoal - NestJS Security - Módulo Usuário - Parte 01</a>
 17. <a href="20.md" >Projeto Blog Pessoal - NestJS Security - Módulo Usuário - Parte 02</a>
 18. <a href="17.md" >Projeto Blog Pessoal - NestJS Security - Módulo Auth - Parte 02</a>
-19. <a href="18.md" >Introdução a Teste de Software com Jest</a>
-20. <a href="19.md" >Projeto Blog Pessoal - Teste de Software - Configurando o ambiente de testes</a>
-21. <a href="21.md" >Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
-22. <a href="22.md" >Projeto Blog Pessoal - Documentação com Swagger</a>
-23. <a href="23.md" >Projeto Blog Pessoal - Deploy no Heroku via Github</a>
+19. <a href="24.md" >Projeto Blog Pessoal - NestJS Security - Módulo Auth - Parte 03</a>
+20. <a href="18.md" >Introdução a Teste de Software com Jest</a>
+21. <a href="19.md" >Projeto Blog Pessoal - Teste de Software - Configurando o ambiente de testes</a>
+22. <a href="21.md" >Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
+23. <a href="22.md" >Projeto Blog Pessoal - Documentação com Swagger</a>
+24. <a href="23.md" >Projeto Blog Pessoal - Deploy no Heroku via Github</a>
 
 <h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Anexos</h2>
 
