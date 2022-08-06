@@ -5,8 +5,7 @@
 
 <h2><img src="https://i.imgur.com/fu9QxlT.png" title="source: imgur.com" width="40px"/>Fluxo de trabalho Git</h2>
 
-1. <a href="01_fluxo_git.md" >Trabalhando em Equipe com o Github</a>
-2. <a href="02_github_organizations.md" >Guia de Configuração de uma Organização no Github - Git Organization</a>
+1. <a href="02_github_organizations.md" >Guia de Configuração de uma Organização no Github - Git Organization</a>
 
 <br /><br />
 	
