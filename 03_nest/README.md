@@ -5,7 +5,7 @@
 
 <h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Backend - NestJS</h2>
 
-1. <a href="vscode_config.md">Configurações do VSCode e solução de problemas comuns</a>
+1. <a href="config_vscode_nest.md">Configurações do VSCode e solução de problemas comuns</a>
 2. <a href="01.md" >Introdução ao NestJS</a>
 3. <a href="02.md" >Primeiros passos com NestJS </a>
 4. <a href="03.md" >Introdução ao TypeORM</a>
