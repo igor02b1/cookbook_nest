@@ -22,7 +22,7 @@ npm install eslint
 
 <h2>2. Configurações</h2>
 
-<h3>1.1. Configurar o Powershel para executar Scripts</h3>
+<h3>2.1. Configurar o Powershel para executar Scripts</h3>
 
 O Windows PowerShell, por padrão, restringe a execução de scripts. Como iremos executar diversos Scripts no NestJS, precisamos alterar as políticas de execução de scripts, seguindo os passos abaixo:
 
@@ -36,7 +36,7 @@ O Windows PowerShell, por padrão, restringe a execução de scripts. Como iremo
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ```
 
-<h3>1.1. Configurações Recomendadas no VSCode</h3>
+<h3>2.2. Configurações Recomendadas no VSCode</h3>
 
 Vamos alterar 2 configurações no VSCode para nos auxiliar no Desenvolvimento da aplicação como Nest:
 
