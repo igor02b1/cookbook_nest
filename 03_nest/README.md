@@ -5,7 +5,7 @@
 
 <h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Backend - NestJS</h2>
 
-0. <a href="config_vscode_nest.md">Configurações do VSCode e solução de problemas comuns</a>
+1. <a href="config_vscode_nest.md">Configurações do VSCode e solução de problemas comuns</a>
 2. <a href="01.md" >Introdução ao NestJS</a>
 3. <a href="02.md" >Primeiros passos com NestJS </a>
 4. <a href="03.md" >Introdução ao TypeORM</a>
@@ -29,7 +29,7 @@
 22. <a href="19.md" >Projeto Blog Pessoal - Teste de Software - Configurando o ambiente de testes</a>
 23. <a href="21.md" >Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
 24. <a href="22.md" >Projeto Blog Pessoal - Documentação com Swagger</a>
-25. <a href="23.md" >Projeto Blog Pessoal - Deploy no Heroku via Github</a>
+25. <a href="25.md" >Projeto Blog Pessoal - Deploy no Render via Github</a>
 
 <br /><br />
 
